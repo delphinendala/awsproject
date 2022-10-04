@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Cluster</title>
+</head>
+<body>
+
+<p>A cluster is a group of servers and other
+resources that act like a single system and
+enable high availability and, in some cases,
+load balancing and parallel processing.
+ Un cluster est un groupe de serveurs et
+d'autres ressources qui agissent comme un
+système unique et permettent une haute
+disponibilité et, dans certains cas,
+l'équilibrage de charge et le traitement
+parallèle.</p>
+
+</body>
+</html>
